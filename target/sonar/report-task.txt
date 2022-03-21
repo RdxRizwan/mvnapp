@@ -1,0 +1,7 @@
+organization=rdxrizwan
+projectKey=RdxRizwan_mvnapp
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.27634
+dashboardUrl=https://sonarcloud.io/dashboard?id=RdxRizwan_mvnapp
+ceTaskId=AX-rTSTTrNp753N6IgJQ
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AX-rTSTTrNp753N6IgJQ
